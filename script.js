@@ -251,7 +251,9 @@ class App {
       .openPopup();
   }
 }
-
+function oke() {
+  console.log();
+}
 //# submit form
 
 //# one of the most important thing in architecture is how and where we store data (class not which database we will use)
